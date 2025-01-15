@@ -27,7 +27,13 @@ public class MajorityElement {
         return 0;
     }
 
-    
+    /**
+    Arrays.sort(nums);
+    int n = nums.length;
+    return nums[n/2];
+     */
+
+
 
     
 }
