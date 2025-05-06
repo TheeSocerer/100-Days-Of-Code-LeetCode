@@ -32,8 +32,5 @@ public class MajorityElement {
     int n = nums.length;
     return nums[n/2];
      */
-
-
-
     
 }
